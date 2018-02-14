@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class About {
 
     public About() {
-
+    	System.out.println();
     }
 
 }
